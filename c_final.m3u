@@ -128,6 +128,87 @@ http://64.31.23.207:80/08892467/61552913/3460237.m3u8
 http://cerejadoce.live:80/68dGF/YcvT7/72979.ts
 #EXTINF:-1 tvg-name="Paramount + 2 HD" tvg-logo="http://cerejadoce.live/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 2 HD
 http://cerejadoce.live:80/68dGF/YcvT7/72983.ts
+# Premiere
+#EXTINF:-1 tvg-name="Premiere 2 4K" tvg-id="Premiere2.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 4K
+http://onlivex.pro:80/563593/vGfUjy/103482.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-id="Premiere2.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+http://onlivex.pro:80/563593/vGfUjy/72237.ts
+#EXTINF:-1 tvg-name="Premiere 2 FHD [H265]" tvg-id="Premiere2.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72238.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 2 HD" tvg-id="Premiere2.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+http://onlivex.pro:80/563593/vGfUjy/72239.ts
+#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-id="Premiere2.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+http://onlivex.pro:80/563593/vGfUjy/72240.ts
+#EXTINF:-1 tvg-name="Premiere 3 4K" tvg-id="Premiere3.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 4K
+http://onlivex.pro:80/563593/vGfUjy/103481.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD" tvg-id="Premiere3.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+http://onlivex.pro:80/563593/vGfUjy/72241.ts
+#EXTINF:-1 tvg-name="Premiere 3 FHD [H265]" tvg-id="Premiere3.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72242.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 3 HD" tvg-id="Premiere3.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+http://onlivex.pro:80/563593/vGfUjy/72243.ts
+#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-id="Premiere3.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+http://onlivex.pro:80/563593/vGfUjy/72244.ts
+#EXTINF:-1 tvg-name="Premiere 4 4K" tvg-id="Premiere4.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 4K
+http://onlivex.pro:80/563593/vGfUjy/103480.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-id="Premiere4.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+http://onlivex.pro:80/563593/vGfUjy/72245.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD [H265]" tvg-id="Premiere4.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72246.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 4 HD" tvg-id="Premiere4.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+http://onlivex.pro:80/563593/vGfUjy/72247.ts
+#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-id="Premiere4.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+http://onlivex.pro:80/563593/vGfUjy/72248.ts
+#EXTINF:-1 tvg-name="Premiere 5 4K" tvg-id="Premiere5.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 4K
+http://onlivex.pro:80/563593/vGfUjy/103479.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-id="Premiere5.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+http://onlivex.pro:80/563593/vGfUjy/72249.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD [H265]" tvg-id="Premiere5.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72250.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 5 HD" tvg-id="Premiere5.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+http://onlivex.pro:80/563593/vGfUjy/72251.ts
+#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-id="Premiere5.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+http://onlivex.pro:80/563593/vGfUjy/72252.ts
+#EXTINF:-1 tvg-name="Premiere 6 4K" tvg-id="Premiere6.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 4K
+http://onlivex.pro:80/563593/vGfUjy/103478.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD" tvg-id="Premiere6.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+http://onlivex.pro:80/563593/vGfUjy/72253.ts
+#EXTINF:-1 tvg-name="Premiere 6 FHD [H265]" tvg-id="Premiere6.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72254.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 6 HD" tvg-id="Premiere6.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+http://onlivex.pro:80/563593/vGfUjy/72255.ts
+#EXTINF:-1 tvg-name="Premiere 6 SD" tvg-id="Premiere6.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+http://onlivex.pro:80/563593/vGfUjy/72256.ts
+#EXTINF:-1 tvg-name="Premiere 7 4K" tvg-id="Premiere7.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 4K
+http://onlivex.pro:80/563593/vGfUjy/103477.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD" tvg-id="Premiere7.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+http://onlivex.pro:80/563593/vGfUjy/72257.ts
+#EXTINF:-1 tvg-name="Premiere 7 FHD [H265]" tvg-id="Premiere7.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72258.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere 7 HD" tvg-id="Premiere7.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+http://onlivex.pro:80/563593/vGfUjy/72259.ts
+#EXTINF:-1 tvg-name="Premiere 7 SD" tvg-id="Premiere7.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+http://onlivex.pro:80/563593/vGfUjy/72260.ts
+#EXTINF:-1 tvg-name="Premiere 8 4K" tvg-id="Premiere8.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 4K
+http://onlivex.pro:80/563593/vGfUjy/180162.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD" tvg-id="Premiere8.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
+http://onlivex.pro:80/563593/vGfUjy/180158.ts
+#EXTINF:-1 tvg-name="Premiere 8 FHD [H265]" tvg-id="Premiere8.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/180161.ts
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-id="Premiere8.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+http://onlivex.pro:80/563593/vGfUjy/180159.ts
+#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-id="Premiere8.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
+http://onlivex.pro:80/563593/vGfUjy/180160.ts
+#EXTINF:-1 tvg-name="Premiere Clubes 4K" tvg-id="Premiereclubes.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes 4K
+http://onlivex.pro:80/563593/vGfUjy/72264.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-id="Premiereclubes.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD
+http://onlivex.pro:80/563593/vGfUjy/72262.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD [H265]" tvg-id="Premiereclubes.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72263.ts
+#EXTINF:-1 timeshift="7" tvg-name="Premiere Clubes HD" tvg-id="Premiereclubes.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes HD
+http://onlivex.pro:80/563593/vGfUjy/72265.ts
+#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-id="Premiereclubes.br" tvg-logo="http://onlivex.pro/static/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere Clubes SD
+http://onlivex.pro:80/563593/vGfUjy/72266.ts
 #EXTINF:-1 tvg-name="Paramount + 3 HD" tvg-logo="http://cerejadoce.live/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 3 HD
 http://cerejadoce.live:80/68dGF/YcvT7/72987.ts
 #EXTINF:-1 tvg-name="Paramount + 4 HD" tvg-logo="http://cerejadoce.live/images/a2297e25c35601bed705a676d70e41df.png" group-title="Canais | Paramount +",Paramount + 4 HD
